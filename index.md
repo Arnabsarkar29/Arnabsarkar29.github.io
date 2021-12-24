@@ -1,3 +1,2 @@
-|                                                            |             |
-|------------------------------------------------------------|-------------|
-|![Arnab Sarkar's Photo](/images/Passport_size_photo.jpg " ")| # Arnab Sarkar Manager at HSBC|
+
+|![Arnab Sarkar's Photo](/images/image(1).jpg " ")| # Arnab Sarkar Manager at HSBC|
